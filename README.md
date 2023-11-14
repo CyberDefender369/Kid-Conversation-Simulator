@@ -2,7 +2,7 @@
 
 
 # Description 
-
+This project simulates a conversation between an adult and a little kid. Little kids are known to ask a lot of questions and usually the first answer does not satisfy them. Kids are notorius for following up with "why?" and sometimes adults just need to say "just because" to get kids to move on. The simulator will make use of a while loop, a data structure (list), and the random module to satisfy a kid's curiosity. 
 
 # Language and Utilities Used
 
@@ -21,3 +21,4 @@
 
 
 <p align="left">
+<img src="https://onedrive.live.com/embed?resid=C275DA66CF018782%2129542&authkey=%21AHM9npnlxSRJTBI&width=671&height=790" width="80%" height="80%" />
